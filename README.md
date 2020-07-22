@@ -18,7 +18,7 @@ Static Application that you can shop for the trendy styles of today!
 
 ### Checkout Page
 
-![image](./src/assets/images/big-clothing-checkoutpage.png)
+![image](./src/assets/images/big-clothing-checkoutdropdown.png)
 
 ### Stripe Pop up
 
