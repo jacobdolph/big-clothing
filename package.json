@@ -2,10 +2,16 @@
   "name": "big-clothing",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.9.0",
+    "node": "10.16.3"
+  },
+  "main": "index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "express": "^4.17.1",
     "firebase": "^7.14.5",
     "lodash.memoize": "^4.1.2",
     "node-sass": "^4.14.1",
@@ -13,7 +19,7 @@
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.1",
     "react-stripe-checkout": "^2.6.3",
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
