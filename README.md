@@ -33,7 +33,7 @@ Static Application that you can shop for the trendy styles of today!
 * [React.js](https://reactjs.org/) - MVC front-end framework 
 * [Redux.js](https://redux.js.org/) - Library for React State management
 * [Firebase](https://firebase.google.com) - Authentication platform - Database
-* [Stripe](https://stripe.com) - Online payment system
+* [Stripe](https://stripe.com) - Online payment systemcd 
 
 ## Planned Updates
 

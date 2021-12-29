@@ -5,7 +5,7 @@ import CartDropdown from '../CartDropdown';
 import { createStructuredSelector } from 'reselect';
 
 
-import { ReactComponent as Logo } from '../../assets/original.svg'
+import { ReactComponent as Logo } from '../../assets/hamster.svg'
 import './styles.scss';
 import { auth } from '../../firebase/firebase.utils';
 import { connect } from 'react-redux';
